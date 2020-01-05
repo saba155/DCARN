@@ -114,5 +114,7 @@ python segmentation/visualize.py --dataset sema3d --ROOT_PATH $SEMA3D_DIR --res_
 
 avoid ```--upsample 1``` as it can can take a very long time on the largest clouds.
 
+Trained models for both datasets can be found at (https://github.com/saba155/DCARN_trained_models)
+
 # Acknowledgements
 The code for Training, evaluation and visualize is borrowed from [SPG] (https://github.com/loicland/superpoint_graph/tree/release)
