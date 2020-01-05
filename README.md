@@ -13,7 +13,7 @@ This code is tested on Ubuntu 16.04 LTS with CUDA 8.0 and Pytorch 0.4.1.
 
 3. Install Boost (1.63.0 or later) and Eigen3, in Conda: `conda install -c anaconda boost; conda install -c omnia eigen3; conda install eigen; conda install -c r libiconv`.
 
-4. Clone [cut pursuit repository](https://github.com/loicland/cut-pursuit) in `/partition` folder
+4. Clone [cut pursuit repository](https://github.com/loicland/cut-pursuit) in `/grouping` folder
 
 5. Compile the ```libply_c``` and ```libcp``` libraries:
 ```
